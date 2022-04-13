@@ -141,8 +141,8 @@
 @media screen and (max-width: 768px) {
     .context{
         width: 90%;
-        height: 70vw;
-        margin-bottom: 30px;
+        height: 80vw;
+        margin-bottom: 35px;
     }
     .context h1{
         text-align: left;
