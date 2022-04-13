@@ -7,7 +7,7 @@ const Footer = () => {
     }
   return (
     <div className="footer">
-        <small>&copy; lwiit Copyrights {formattedYear} | All Rights Reserved</small>
+        <small>&copy; lwiit Copyrights {formattedYear()} | All Rights Reserved</small>
     </div>
   )
 }
